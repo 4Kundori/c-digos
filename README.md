@@ -1,2 +1,2 @@
-# c-digos
+# codigos
 códigos da prova GC
